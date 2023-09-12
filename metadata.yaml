@@ -1,0 +1,27 @@
+_repo: Essay-on-art-and-photography_71518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sutton, A. V.
+    gutenberg_agent_id: '56269'
+    url: http://www.gutenberg.org/2009/agents/56269
+description: ''
+gutenberg_issued: '2023-08-29'
+identifiers:
+  gutenberg: '71518'
+language: en
+pgterms:marc904: https://archive.org/details/essayonartphotog00sutt/page/n5/mode/2up
+pgterms:marc905: 20220329132000sutton
+pgterms:marc906: '1866'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLiverpool :$bMichael James Witty, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essay on art and photography
+url: http://www.gutenberg.org/ebooks/71518
